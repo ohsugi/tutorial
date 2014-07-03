@@ -1,3 +1,4 @@
 Test file
 Added line
 Recording the commit index status
+Conflict test
